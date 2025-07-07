@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "includes"
+		},
+		{
+			"path": "images"
+		},
+		{
+			"path": "uploads"
+		},
+		{
+			"path": "store"
+		},
+		{
+			"path": "css"
+		},
+		{
+			"path": "admin"
+		},
+		{
+			"path": "auth"
+		}
+	]
+}
